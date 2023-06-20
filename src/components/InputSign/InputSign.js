@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import SignaturePad from "signature_pad";
-import { Signature } from "../../Components/Signature";
+import { Signature } from "../../components/Signature";
 
 export const InputSign = ({ onSign, initialSignature, signDate, label }) => {
   const signatureRef = useRef(null);
