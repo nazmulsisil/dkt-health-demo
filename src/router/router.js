@@ -5,6 +5,9 @@ import ClassActivitiesPage from "../pages/activities/ClassActivitiesPage";
 import ProductDetailingPage from "../pages/detailing/ProductDetailing";
 import MarketResearchPage from "../pages/research/MarketResearchPage";
 import ProductSamplePage from "../pages/samples/ProductSamplePage";
+import { JointCall } from "../pages/JointCall";
+import { CallSummary } from "../pages/CallSummary";
+import { PostCall } from "../pages/PostCall";
 
 export const router = createBrowserRouter([
     { path: "/", Component: Homepage },
@@ -24,5 +27,17 @@ export const router = createBrowserRouter([
     {
         path: "/activities/:activityId/productSamples",
         Component: ProductSamplePage,
+    },
+    {
+        path: "/activities/:activityId/jointCall",
+        Component: JointCall,
+    },
+    {
+        path: "/activities/:activityId/callSummary",
+        Component: CallSummary,
+    },
+    {
+        path: "/activities/:activityId/postCall",
+        Component: PostCall,
     },
 ]);
