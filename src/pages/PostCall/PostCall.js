@@ -74,7 +74,7 @@ export const PostCall = () => {
         <div>
           <label
             htmlFor="nextCallObjective"
-            className="font-bold text-gray-700 mb-2"
+            className="font-bold text-gray-700 mb-2 mt-2"
           >
             Next Call Objective:
           </label>
@@ -92,7 +92,7 @@ export const PostCall = () => {
           ></textarea>
         </div>
 
-        <div className="flex items-center justify-center w-full">
+        <div className="flex items-center justify-center w-full mt-4">
           <button
             onClick={() => {
               navigate("/md-list");
