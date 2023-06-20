@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "class": "A",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    },
+    {
+      "class": "B",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    },
+    {
+      "class": "C",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    },
+    {
+      "class": "D",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    },
+    {
+      "class": "E",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    },
+    {
+      "class": "F",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    },
+    {
+      "class": "G",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    },
+    {
+      "class": "H",
+      "actualCalls": 0,
+      "targetCalls": 0,
+      "percent1": "0.00%",
+      "actualCount": 0,
+      "targetCount": 0,
+      "percent2": "0.00%",
+      "averageFrequency": 0.04,
+      "targetFrequency": 1.12
+    }
+  ]
+}
